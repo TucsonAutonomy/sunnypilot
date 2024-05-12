@@ -327,6 +327,7 @@ CAR_INFO: Dict[str, Optional[Union[HyundaiCarInfo, List[HyundaiCarInfo]]]] = {
   # Non-SCC Cars
   CAR.BAYON_1ST_GEN_NON_SCC: HyundaiCarInfo("Hyundai Bayon Non-SCC 2021", "No Smart Cruise Control (SCC)", car_parts=CarParts.common([CarHarness.hyundai_n])),
   CAR.ELANTRA_2022_NON_SCC: HyundaiCarInfo("Hyundai Elantra Non-SCC 2022", "No Smart Cruise Control (SCC)", car_parts=CarParts.common([CarHarness.hyundai_k])),
+  CAR.TUCSON_2017_NON_SCC: HyundaiCarInfo("Hyundai Tucson Non-SCC 2017", "No Smart Cruise Control (SCC)", car_parts=CarParts.common([CarHarness.hyundai_c])),
   CAR.KONA_NON_SCC: HyundaiCarInfo("Hyundai Kona Non-SCC 2019", "No Smart Cruise Control (SCC)", car_parts=CarParts.common([CarHarness.hyundai_b])),
   CAR.KIA_FORTE_2019_NON_SCC: HyundaiCarInfo("Kia Forte Non-SCC 2019", "No Smart Cruise Control (SCC)", car_parts=CarParts.common([CarHarness.hyundai_g])),
   CAR.KIA_FORTE_2021_NON_SCC: HyundaiCarInfo("Kia Forte Non-SCC 2021", "No Smart Cruise Control (SCC)", car_parts=CarParts.common([CarHarness.hyundai_g])),
