@@ -1743,7 +1743,7 @@ FW_VERSIONS = {
       b'\xf1\x00TL  LKAS AT KOR LHD 1.00 1.00 95895-D3500 170208',
     ],
     (Ecu.transmission, 0x7e1, None): [
-      b'\xf1\x006U2U0_C2\x00\x006U2U0051\x00\x00DTL0D17KSA\x8c\x7f\xd2\xb3’,
+      b'\xf1\x006U2U0_C2\x00\x006U2U0051\x00\x00DTL0D17KSA\x8c\x7f\xd2\xb3',
       b'\xf1\x816U2U0051\x00\x00\xf1\x006U2U0_C2\x00\x006U2U0051\x00\x00DTL0D17KSA\x8c\x7f\xd2\xb3',
       b'DTL0D17KSA',
     ],
